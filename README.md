@@ -41,10 +41,10 @@
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
-< div align="center">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,python,MongoDB,SQL,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=r,MySQL,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=python,MongoDB,SQL" /><br>
+    <img src="https://skillicons.dev/icons?i=github,r,MySQL,vscode,git,nodejs" />
   </a>
 </div>
 
