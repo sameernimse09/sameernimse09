@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,aws,azure,MySQL,git,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=python,anaconda,aws,azure,postman,git,nodejs" /><br>
     <img src="https://skillicons.dev/icons?i=gitlab,fastapi,gcp,ai,mongodb,postgres,r,redis,vscode"/>
   </a>
 </div>
