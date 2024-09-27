@@ -1,10 +1,7 @@
-<img align = "right" src ="https://visitor_badge.laobi.icu/badge? page_id=sameernimse09.sameernimse09" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sameernimse09.sameernimse09" />
 
 <h1 align = "center">
-  <a href = "https://git.io/typing-svg">
-    <img src= "https://readme-typing-svg.herokuapp.com/?
-      font = Righteous&sixe=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sameer+Nimse!;" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sameer+Nimse!;" />
 </h1>
 
 <h3 align = "center"> A Passionate Date and ML enthusiast from US MA </h3>
@@ -39,19 +36,18 @@
 
 <hr/>
 
-<h2 align="center"> Languages-Frameworks-Tools </h2>
+<h2 align="center"> ⚒️Languages-Frameworks-Tools⚒️ </h2>
 <br/>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,MongoDB,SQL" /><br>
-    <img src="https://skillicons.dev/icons?i=github,r,MySQL,vscode,git,nodejs" />
+    <img src="https://skillicons.dev/icons?i=python,anaconda,aws,azure,MySQL,git,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=gitlab,fastapi,gcp,ai,mongodb,postgres,r,redis,vscode"/>
   </a>
 </div>
 
 
 
 
-## Hi there 👋
 
 <!--
 **sameernimse09/sameernimse09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
