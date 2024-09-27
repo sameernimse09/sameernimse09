@@ -1,3 +1,56 @@
+<img align = "right" src ="https://visitor_badge.laobi.icu/badge? page_id=sameernimse09.sameernimse09" />
+
+<h1 align = "center">
+  <a href = "https://git.io/typing-svg">
+    <img src= "https://readme-typing-svg.herokuapp.com/?
+      font = Righteous&sixe=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sameer+Nimse!;" />
+  </a>
+</h1>
+
+<h3 align = "center"> A Passionate Date and ML enthusiast from US MA </h3>
+
+<br/>
+
+<div align="center">
+
+🔭 I’m currently working on a **chat app**
+
+🌱 I’m currently looking for a **Full-Time Job**
+
+💬 Ask me about **Data Engineering, Python, Sql, Sustainable-Financing**
+
+⚡ Fun fact **I am a Fitness Enthusiast**
+
+
+</div>
+
+<div align ="center">
+  <a href="mailto:sameernimse99@gmail.com">
+   <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sameer522/" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+    <a href= "https://sameernimse09.github.io" >
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logocolor=white"/>
+      <!-- sqlite, safari, google-chrome are other good icon options -->
+    </a>
+</div>
+
+<hr/>
+
+<h2 align="center"> Languages-Frameworks-Tools </h2>
+<br/>
+< div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,python,MongoDB,SQL,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=r,MySQL,vscode,git" />
+  </a>
+</div>
+
+
+
+
 ## Hi there 👋
 
 <!--
