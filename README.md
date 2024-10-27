@@ -4,11 +4,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Sameer+Nimse!;" />
 </h1>
 
-<h3 align = "center"> A Passionate Date and ML enthusiast from US MA </h3>
+<h3>Passionate about tackling data challenges and turning insights into actionable solutions</h3>
 
 <br/>
 
-<div align="center">
+<div>
 
 🔭 I’m currently working on a **chat app**
 
@@ -21,6 +21,16 @@
 
 </div>
 
+<br>
+<h2>Tech Stack</h2>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,r,aws,azure,gcp,html,css,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=flask,git,postman,fastapi,docker,mysql,mongodb,postgres,redis"/>
+  </a>
+</div>
+
+<h2>Socials</h2>
 <div align ="center">
   <a href="mailto:sameernimse99@gmail.com">
    <img src= "https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -33,18 +43,6 @@
       <!-- sqlite, safari, google-chrome are other good icon options -->
     </a>
 </div>
-
-<hr/>
-
-<h2 align="center"> ⚒️Languages-Frameworks-Tools⚒️ </h2>
-<br/>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,anaconda,aws,azure,postman,git,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=gitlab,fastapi,gcp,ai,mongodb,postgres,r,redis,vscode"/>
-  </a>
-</div>
-
 
 
 
