@@ -1,5 +1,5 @@
 <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=sameernimse09-visitors-badge&countColor=%237B1E7A" />
+      <img align="right" src="https://api.visitorbadge.io/api/VisitorHit?user=estruyf&repo=sameernimse09-visitors-badge&countColor=%23ADD8E6" />
    </a>
 
 <h1 align = "center">
